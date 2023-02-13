@@ -1,5 +1,4 @@
-# Hi! I'm Alex from Argentina! 
-## Front-end Dev
+# Hi! I'm Alex, I'm a Front-end Dev! 
 
 
 
