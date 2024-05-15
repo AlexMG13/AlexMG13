@@ -1,12 +1,26 @@
 # Hi! I'm Alex, I'm a FullStack Dev! 
-## Coding with the MERN stack, MONGO, EXPRESS, REACT and NODE.
+## Also Data science student! :D
 
-## Technical skills
+## FrontEnd
 - HTML, CSS, JavaScript
-- Python, PHP, C++, Java
-- Postman
-- Git
+- React, Astro
+- Tailwind, Bootstrap
+- Redux
+
+## BackEnd
+- Java
+- Springboot
+- node.js
+- Express
+- MongoDB
 - MySQL
+- PostgreSQL
+- Flask
+
+## Test
+- Junit
+- Jest
+- Postman
 
 ## Languages
 - Spanish
